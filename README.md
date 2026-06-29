@@ -1,0 +1,96 @@
+# G. Vishwanathan Challenge
+
+## 📊 Challenge Progress
+
+- **Solved Count:** 1 / 86
+- **Completion Percentage:** 1%
+- **Current Streak:** 1 days
+
+## 📅 Daily Log
+
+- [x] Day 1: Two Sum
+- [ ] Day 2: Remove Linked List Elements
+- [ ] Day 3: Group Anagrams
+- [ ] Day 4: Same Tree
+- [ ] Day 5: Top K Frequent Elements
+- [ ] Day 6: Invert Binary Tree
+- [ ] Day 7: Best Time to Buy and Sell Stock
+- [ ] Day 8: Min Stack
+- [ ] Day 9: Merge Intervals
+- [ ] Day 10: Maximum Depth of Binary Tree
+- [ ] Day 11: Maximum Subarray
+- [ ] Day 12: Reverse Linked List
+- [ ] Day 13: Product of Array Except Self
+- [ ] Day 14: Symmetric Tree
+- [ ] Day 15: Two Sum II - Input Array Is Sorted
+- [ ] Day 16: Balanced Binary Tree
+- [ ] Day 17: 3Sum
+- [ ] Day 18: Diameter of Binary Tree
+- [ ] Day 19: Binary Search
+- [ ] Day 20: Linked List Cycle
+- [ ] Day 21: Search in Rotated Sorted Array
+- [ ] Day 22: Remove Nth Node From End of List
+- [ ] Day 23: Ransom Note
+- [ ] Day 24: Lowest Common Ancestor of a BST
+- [ ] Day 25: Merge Two Sorted Lists
+- [ ] Day 26: Kth Smallest Element in a BST
+- [ ] Day 27: Is Subsequence
+- [ ] Day 28: Flood Fill
+- [ ] Day 29: Unique Paths
+- [ ] Day 30: Unique Paths
+- [ ] Day 31: Path Sum
+- [ ] Day 32: Valid Anagram
+- [ ] Day 33: Longest Substring Without Repeating Characters
+- [ ] Day 34: Island Perimeter
+- [ ] Day 35: House Robber
+- [ ] Day 36: Implement Queue using Stacks
+- [ ] Day 37: Kth Largest Element in an Array
+- [ ] Day 38: Validate Binary Search Tree
+- [ ] Day 39: Middle of the Linked List
+- [ ] Day 40: Construct Binary Tree from Preorder and Inorder Traversal
+- [ ] Day 41: Squares of a Sorted Array
+- [ ] Day 42: Average of Levels in Binary Tree
+- [ ] Day 43: Find Smallest Letter Greater Than Target
+- [ ] Day 44: Counting Valleys
+- [ ] Day 45: Best Time to Buy and Sell Stock II
+- [ ] Day 46: Binary Tree Right Side View
+- [ ] Day 47: Task Scheduler
+- [ ] Day 48: Frog Jump II
+- [ ] Day 49: Find the Duplicate Number
+- [ ] Day 50: Flatten Binary Tree to Linked List
+- [ ] Day 51: Subarray Sum Equals K
+- [ ] Day 52: Number of Islands
+- [ ] Day 53: Decode Ways
+- [ ] Day 54: Pacific Atlantic Water Flow
+- [ ] Day 55: Find All Anagrams in a String
+- [ ] Day 56: Clone Graph
+- [ ] Day 57: Rotting Oranges
+- [ ] Day 58: Add Two Numbers
+- [ ] Day 59: Course Schedule
+- [ ] Day 60: LRU Cache
+- [ ] Day 61: Coin Change
+- [ ] Day 62: Serialize and Deserialize Binary Tree
+- [ ] Day 63: Perfect Squares
+- [ ] Day 64: Minimum Window Substring
+- [ ] Day 65: Container With Most Water
+- [ ] Day 66: Word Search II
+- [ ] Day 67: Jump Game
+- [ ] Day 68: Trapping Rain Water
+- [ ] Day 69: Non-overlapping Intervals
+- [ ] Day 70: Median of Two Sorted Arrays
+- [ ] Day 71: Word Break
+- [ ] Day 72: Binary Tree Maximum Path Sum
+- [ ] Day 73: Longest Increasing Subsequence
+- [ ] Day 74: Edit Distance
+- [ ] Day 75: Sliding Window Maximum
+- [ ] Day 76: Regular Expression Matching
+- [ ] Day 77: Merge k Sorted Lists
+- [ ] Day 78: Alien Dictionary
+- [ ] Day 79: Design Twitter
+- [ ] Day 80: Count of Smaller Numbers After Self
+- [ ] Day 81: Maximum Profit in Job Scheduling
+- [ ] Day 82: Burst Balloons
+- [ ] Day 83: Palindrome Partitioning II
+- [ ] Day 84: Largest Rectangle in Histogram
+- [ ] Day 85: N-Queens
+- [ ] Day 86: Sudoku Solver
